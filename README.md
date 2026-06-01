@@ -30,3 +30,4 @@ The goal is not to create a trading system, but to provide a clear and interpret
 The app expects a CSV file with at least two relevant columns:
 - A date column
 - A return or price column
+The app contains a sample data of S&P 500 2025 returns from www..investing.com/indices/us-spx-500-historical-data.
