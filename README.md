@@ -2,6 +2,8 @@
 
 This project is a Streamlit-based AutoML application that predicts whether the next period's market return will be positive or negative based on historical return data.
 
+Streamlit App Link: https://fund-returns-automl-with-app-bgyhyucamcnxcmyfy3fb3v.streamlit.app/
+
 The app is designed for a data visualization course assignment, with emphasis on human-centered design, simple user flow, clear visual output, and model comparison.
 
 
